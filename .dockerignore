@@ -1,0 +1,17 @@
+.git
+.DS_Store
+__pycache__
+*.pyc
+.venv
+venv
+
+frontend/node_modules
+frontend/dist
+
+data
+datasets
+runs
+scratch
+*.pt
+*.pth
+*.db

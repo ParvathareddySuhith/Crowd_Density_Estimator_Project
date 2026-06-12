@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+ultralytics
+sqlalchemy
+python-multipart
+websockets
+# Optional: csrnet dependencies if we were to load it, torch is usually pulled by ultralytics
+torch
+torchvision

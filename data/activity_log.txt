@@ -1,0 +1,6 @@
+2026-07-15T14:00:00 - style(ui): refine command center theme tokens and visual contrast
+2026-07-16T15:30:00 - perf(inference): optimize frame resize scaling and worker thread loop
+2026-07-17T11:20:00 - refactor(core): decouple risk assessment engine and alert manager
+2026-07-18T16:45:00 - docs(api): document websocket stats payload and mjpeg stream endpoint
+2026-07-19T18:10:00 - test(services): expand unit test coverage for video upload validation
+2026-07-20T12:00:00 - chore(release): bump version to 2.1.0 with dynamic safety capacity scaling
