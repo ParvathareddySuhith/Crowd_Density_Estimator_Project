@@ -1,1 +1,2 @@
 [2026-06-12T14:30:00 +0530] feat(init): initialize Crowd Density Estimator core repository structure
+[2026-06-13T14:30:00 +0530] style(theme): add dark mode design tokens and CSS variables
