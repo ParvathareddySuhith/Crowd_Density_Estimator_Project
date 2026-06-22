@@ -6,3 +6,4 @@
 [2026-06-18T14:30:00 +0530] feat(density): implement 2D Gaussian density spatial mapping kernel
 [2026-06-20T14:30:00 +0530] feat(fusion): build weighted average count fusion model for crowd density
 [2026-06-21T14:30:00 +0530] feat(risk): implement risk level classification engine and warning thresholds
+[2026-06-22T14:30:00 +0530] feat(alerts): add alert manager with status change cooldown logic
