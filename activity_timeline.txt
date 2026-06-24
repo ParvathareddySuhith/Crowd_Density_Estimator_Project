@@ -7,3 +7,4 @@
 [2026-06-20T14:30:00 +0530] feat(fusion): build weighted average count fusion model for crowd density
 [2026-06-21T14:30:00 +0530] feat(risk): implement risk level classification engine and warning thresholds
 [2026-06-22T14:30:00 +0530] feat(alerts): add alert manager with status change cooldown logic
+[2026-06-24T14:30:00 +0530] feat(db): set up SQLite event log schema and SQLAlchemy service layer
