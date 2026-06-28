@@ -10,3 +10,4 @@
 [2026-06-24T14:30:00 +0530] feat(db): set up SQLite event log schema and SQLAlchemy service layer
 [2026-06-25T14:30:00 +0530] feat(api): build FastAPI server endpoints for video feed and health monitoring
 [2026-06-26T14:30:00 +0530] feat(mjpeg): add low-latency MJPEG video streaming generator endpoint
+[2026-06-28T14:30:00 +0530] feat(ws): build WebSocket telemetry broadcaster for real-time stats (/ws/stats)
