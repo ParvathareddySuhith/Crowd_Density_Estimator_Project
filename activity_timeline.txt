@@ -13,3 +13,4 @@
 [2026-06-28T14:30:00 +0530] feat(ws): build WebSocket telemetry broadcaster for real-time stats (/ws/stats)
 [2026-06-29T14:30:00 +0530] feat(ui): create React 18 dashboard layout with Vite and Tailwind CSS
 [2026-06-30T14:30:00 +0530] feat(ui): build CameraFeed component with live MJPEG stream display
+[2026-07-02T14:30:00 +0530] feat(ui): build RealTimeChart component for headcount visualization
