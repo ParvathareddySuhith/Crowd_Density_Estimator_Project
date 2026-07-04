@@ -15,3 +15,4 @@
 [2026-06-30T14:30:00 +0530] feat(ui): build CameraFeed component with live MJPEG stream display
 [2026-07-02T14:30:00 +0530] feat(ui): build RealTimeChart component for headcount visualization
 [2026-07-03T14:30:00 +0530] feat(ui): build LogConsole component for live event timeline feed
+[2026-07-04T14:30:00 +0530] feat(ui): add ConfigPanel drawer for capacity and area threshold controls
