@@ -19,3 +19,4 @@
 [2026-07-06T14:30:00 +0530] feat(ui): add Jet colormap density heatmap overlay toggle button
 [2026-07-07T14:30:00 +0530] feat(ui): add physical scene area calibration slider (10m² to 300m²)
 [2026-07-08T14:30:00 +0530] feat(scaling): implement headcount rate-of-change ingress velocity tracking
+[2026-07-10T14:30:00 +0530] feat(scaling): add dynamic capacity auto-scaling rules (up to 30% reduction)
