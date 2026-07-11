@@ -20,3 +20,4 @@
 [2026-07-07T14:30:00 +0530] feat(ui): add physical scene area calibration slider (10m² to 300m²)
 [2026-07-08T14:30:00 +0530] feat(scaling): implement headcount rate-of-change ingress velocity tracking
 [2026-07-10T14:30:00 +0530] feat(scaling): add dynamic capacity auto-scaling rules (up to 30% reduction)
+[2026-07-11T14:30:00 +0530] feat(ui): render dynamic safety capacity indicators on operational dashboard
