@@ -27,3 +27,4 @@
 [2026-07-16T14:30:00 +0530] feat(init): initialize Crowd Density Estimator core repository structure
 [2026-07-18T14:30:00 +0530] style(theme): add dark mode design tokens and CSS variables
 [2026-07-19T14:30:00 +0530] feat(yolo): integrate YOLOv8 person detection pipeline with PyTorch backend
+[2026-07-20T14:30:00 +0530] feat(tracker): add ByteTrack multi-object tracking and track ID assignment
