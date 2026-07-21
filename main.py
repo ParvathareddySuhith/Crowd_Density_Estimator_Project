@@ -42,6 +42,11 @@ monitoring_service = CrowdMonitoringService()
 async def lifespan(_: FastAPI):
     VIDEO_DIR.mkdir(parents=True, exist_ok=True)
     await asyncio.to_thread(monitoring_service.initialize)
+    print("\n" + "=" * 65)
+    print(" 🚀 CROWD DENSITY ESTIMATOR SERVER STARTED SUCCESSFULLY!")
+    print(" 👉 Monitor Dashboard: http://localhost:8000/monitor")
+    print(" 👉 System Landing Page: http://localhost:8000/")
+    print("=" * 65 + "\n")
     try:
         yield
     finally:
